@@ -1,0 +1,2 @@
+# Simulador_de_Equilibrio_Quimico_V2
+incluye simulación submicroscópica
